@@ -3,8 +3,8 @@ class Rectangulo{
 
 	private float area;
 
-	public Rectabgulo(){
-	}
+
+}
 
 	public Rectangulo(){
 
